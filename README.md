@@ -66,7 +66,7 @@ CIDR tree
 ![CIDR 1](https://github.com/Koro129/Jarkom-Modul-4-IT01-2023/assets/102176304/6c62c035-4942-4f65-aa38-97d6e3e90651)
 ![CIDR 2](https://github.com/Koro129/Jarkom-Modul-4-IT01-2023/assets/102176304/6c249e79-e78f-4b87-a3d4-42b4fc97d1fa)
 
-Berikut merupakan pembagian ip dengan ip besar 10.64.0.0/13. /13 didapatkan dari jumlah ip yang dibutuhkan pada rute diatas  
+Berikut merupakan pembagian ip dengan ip besar 10.64.0.0/13. /13 didapatkan dari jumlah ip yang dibutuhkan dari hasil penggabungan diatas  
 ![IP CIDR](https://github.com/Koro129/Jarkom-Modul-4-IT01-2023/assets/102176304/73b8ae6a-2152-4a1f-b484-28aa41bc062b)
 
 ### Kendala
